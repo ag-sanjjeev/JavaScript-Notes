@@ -7,20 +7,28 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 &nbsp;
 
 ## &#9776; CONTENTS 
+[Introduction:](./introduction.md)
+- [What is Vanilla JavaScript?](./introduction.md#-what-is-vanilla-javascript)
+- [What is the need for it?](./introduction.md#-what-is-the-need-for-it)
+- [Getting Started](./introduction.md#-getting-started)
+
 ### Fundamentals
-1. Basic Syntax:
-	- Variables
-		- var
-		- let
-		- const
-	- Data types
-		- primitive data types 
-			- numbers
-			- strings
-			- booleans
-			- null
-			- undefined 
-			- symbols			
+1. [Basic Syntax:](./docs/basic-syntax.md)
+	- [Variables](./docs/variables.md)
+		- [var](./docs/variables.md#-var)
+		- [let](./docs/variables.md#-let)
+		- [const](./docs/variables.md#-const)
+	- [Data types](./docs/data-types.md)
+		- [primitive data types](./docs/data-types.md#primitive-data-types) 
+			- [numbers](./docs/data-types.md#-numbers)
+			- [strings](./docs/data-types.md#-strings)
+			- [booleans](./docs/data-types.md#-booleans)
+			- [null](./docs/data-types.md#-null)
+			- [undefined](./docs/data-types.md#-undefined) 
+			- [symbols](./docs/data-types.md#-symbols)	
+		- [non-primitive data types](./data-types.md#-non-primitive-data-types)
+	    - [Arrays](./data-types.md#-arrays)
+	    - [Objects](./data-types.md#-objects)	
 	- Operators
 		- Arithmetic
 		- Comparison 
