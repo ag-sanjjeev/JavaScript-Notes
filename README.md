@@ -18,6 +18,7 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 		- [var](./docs/variables.md#-var)
 		- [let](./docs/variables.md#-let)
 		- [const](./docs/variables.md#-const)
+		- [comparison](./docs/variables.md#-comparison)
 	- [Data types](./docs/data-types.md)
 		- [primitive data types](./docs/data-types.md#primitive-data-types) 
 			- [numbers](./docs/data-types.md#-numbers)
