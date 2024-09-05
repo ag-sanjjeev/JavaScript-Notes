@@ -68,6 +68,36 @@ It represents a unique identifier.
 const PRIVATE_KEY = Symbol("private");
 ````
 
+### &#10022; Non-Primitive Data Types:
+Non-primitive data types in JavaScript are complex data structures that can hold multiple values or properties. They are mutable and compared by reference.
+
+The list of non-primitive data types are arrays and objects.
+
+### &#10022; Arrays:
+It is a ordered collections of elements.
+
+*Syntax: `let array = [1, "hello", true];`*
+
+```javascript
+let fruits = ["apple", "banana", "orange"];
+let numbers = [1, 2, 3, 4, 5];
+````
+
+See More on this [Reference](./arrays.md)
+
+### &#10022; Objects:
+It is a collections of key-value pairs
+
+```javascript 
+let object = {
+  name: "Alice",
+  age: 30,
+  isStudent: true
+};
+```
+
+See More on this [Reference](./objects.md)
+
 ### &#10022; Comparison:
 - Data type:
   - Primitive Data Types: It represent individual values and single piece of data. 
