@@ -51,6 +51,6 @@ heading.textContent = message;
 ---
 [&#8682; To Top](#-introduction)
 
-[&#10094; Previous Topic](./README.md)&emsp;[Next Topic &#10095;](./topics.md)
+[&#10094; Previous Topic](./README.md)&emsp;[Next Topic &#10095;](./docs/basic-syntax.md)
 
 [&#8962; Goto Home Page](./README.md)
