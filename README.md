@@ -37,9 +37,19 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 		- [Logical ](./docs/operators.md#-logical)
 		- [Assignment](./docs/operators.md#-assignment)
 		- [Ternary](./docs/operators.md#-ternary)
-	- Control flow
-		- Conditional statements
-		- Loops
+	- [Control flow](./docs/control-flow.md)
+		- [Conditional statements](./docs/control-flow.md#-conditional-statements)
+			- [if statement](./docs/control-flow.md#-if-statement)
+			- [if else statement](./docs/control-flow.md#-if-else-statement)
+			- [else if statement](./docs/control-flow.md#-else-if-statement)
+			- [switch statement](./docs/control-flow.md#-switch-statement)
+		- [Loops](./docs/control-flow.md#-loops)
+			- [for loop](./docs/control-flow.md#-for-loop)
+			- [for in loop](./docs/control-flow.md#-for-in-loop)
+			- [for of loop](./docs/control-flow.md#-for-of-loop)
+			- [while loop](./docs/control-flow.md#-while-loop)
+			- [do while loop](./docs/control-flow.md#-do-while-loop)
+		- [comparison](./docs/control-flow.md#-comparison)
 2. Functions:
 	- Defining functions
 	- Calling functions
