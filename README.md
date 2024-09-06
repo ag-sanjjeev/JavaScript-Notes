@@ -31,12 +31,12 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 	    - [Arrays](./docs/data-types.md#-arrays)
 	    - [Objects](./docs/data-types.md#-objects)	
 		- [comparison](./docs/data-types.md#-comparison)
-	- Operators
-		- Arithmetic
-		- Comparison 
-		- Logical 
-		- Assignment
-		- Ternary
+	- [Operators](./docs/operators.md)
+		- [Arithmetic](./docs/operators.md#-arithmetic)
+		- [Comparison ](./docs/operators.md#-comparison)
+		- [Logical ](./docs/operators.md#-logical)
+		- [Assignment](./docs/operators.md#-assignment)
+		- [Ternary](./docs/operators.md#-ternary)
 	- Control flow
 		- Conditional statements
 		- Loops
