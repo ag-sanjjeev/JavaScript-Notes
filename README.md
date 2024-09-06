@@ -50,12 +50,12 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 			- [while loop](./docs/control-flow.md#-while-loop)
 			- [do while loop](./docs/control-flow.md#-do-while-loop)
 		- [comparison](./docs/control-flow.md#-comparison)
-2. Functions:
-	- Defining functions
-	- Calling functions
-	- Function arguments and return values
-	- Function Scope and closures
-	- Arrow functions
+2. [Functions:](./docs/functions.md)
+	- [Defining functions](./docs/functions.md#-defining-functions)
+	- [Calling functions](./docs/functions.md#-calling-functions)
+	- [Function arguments and return values](./docs/functions.md#-function-arguments-and-return-values)
+	- [Function Scope and closures](./docs/functions.md#-function-scope-and-closures)
+	- [Arrow functions](./docs/functions.md#-arrow-functions)
 3. DOM Manipulation:
 	- Selecting elements
 	- Creating elements
