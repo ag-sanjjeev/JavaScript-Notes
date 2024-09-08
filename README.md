@@ -56,17 +56,17 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 	- [Function arguments and return values](./docs/functions.md#-function-arguments-and-return-values)
 	- [Function Scope and closures](./docs/functions.md#-function-scope-and-closures)
 	- [Arrow functions](./docs/functions.md#-arrow-functions)
-3. DOM Manipulation:
-	- Selecting elements
-	- Creating elements
-	- Adding elements
-	- Modifying elements
-		- Modifying attributes
-		- Changing styles
-	- Removing elements
-	- Event Handling:
-		- Attaching event listeners to elements
-		- Handling common events and custom events
+3. [DOM Manipulation:](./docs/dom-manipulation.md)
+	- [Selecting elements](./docs/dom-manipulation.md#-selecting-elements)
+	- [Creating elements](./docs/dom-manipulation.md#-creating-elements)
+	- [Adding elements](./docs/dom-manipulation.md#-adding-elements)
+	- [Modifying elements](./docs/dom-manipulation.md#-modifying-elements)
+		- [Modifying attributes](./docs/dom-manipulation.md#-modifying-attributes)
+		- [Changing styles](./docs/dom-manipulation.md#-changing-styles)
+	- [Removing elements](./docs/dom-manipulation.md#-removing-elements)
+	- [Event Handling](./docs/dom-manipulation.md#-event-handling)
+		- [Attaching event listeners](./docs/dom-manipulation.md#-attaching-event-listeners)
+		- [Handling events](./docs/dom-manipulation.md#-handling-events)
 
 ### Intermediate Concepts
 1. Objects:
