@@ -69,17 +69,16 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 		- [Handling events](./docs/dom-manipulation.md#-handling-events)
 
 ### Intermediate Concepts
-1. Objects:
-	- Object properties and methods
-	- Object creation
-	- Constructors 
-	- Methods
-	- Properties
-	- Inheritance and polymorphism
-	- `this` keyword
-	- Prototype inheritance
-		- Understanding how objects inherit properties from prototypes
-		- Creating custom prototypes
+1. [Objects:](./docs/objects.md)
+	- [Object properties and methods](./docs/objects.md#-object-properties-and-methods)
+	- [Object creation](./docs/objects.md#-object-creation)
+	- [Constructors](./docs/objects.md#-constructors)
+	- [Methods](./docs/objects.md#-methods)
+	- [Properties](./docs/objects.md#-properties)
+	- [Inheritance](./docs/objects.md#-inheritance)
+	- [Polymorphism](./docs/objects.md#-polymorphism)
+	- [this keyword](./docs/objects.md#-this-keyword)
+	- [Prototype inheritance](./docs/objects.md#-prototype-inheritance)
 2. Arrays:
 	- Array methods
 	- Array iteration
