@@ -79,9 +79,9 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 	- [Polymorphism](./docs/objects.md#-polymorphism)
 	- [this keyword](./docs/objects.md#-this-keyword)
 	- [Prototype inheritance](./docs/objects.md#-prototype-inheritance)
-2. Arrays:
-	- Array methods
-	- Array iteration
+2. [Arrays:](./docs/arrays.md)
+	- [Array methods](./docs/arrays.md#-array-methods)
+	- [Array iteration](./docs/arrays.md#-array-iteration)
 3. Asynchronous JavaScript:
 	- Callbacks
 		- Understanding asynchronous operations
