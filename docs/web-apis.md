@@ -114,7 +114,7 @@ context.fillStyle = 'red';
 context.fillRect(10, 10, 100, 100);
 ```
 
-See More on this [Canvas Reference](https://github.com/ag-sanjjeev/HTML-Notes/blob/master/tags/link-tag.md)
+See More on this [Canvas Reference](https://github.com/ag-sanjjeev/HTML-Canvas-Reference/blob/master/README.md)
 
 ### &#10022; Web Audio API:
 It provides an interface for creating, manipulating, and processing audio data.
