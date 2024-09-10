@@ -92,10 +92,10 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 	- [try and catch](./docs/error-handling.md#-try-and-catch)
 	- [Custom error objects](./docs/error-handling.md#-custom-error-objects)
 	- [Necessity of Error Handling](./docs/error-handling.md#-necessity-of-error-handling)
-2. Regular Expressions:
-	- Creating regular expressions
-	- Common regular expression patterns
-	- Matching patterns in strings
+2. [Regular Expressions:](./docs/regular-expressions.md)
+	- [Creating regular expressions](./docs/regular-expressions.md#-creating-regular-expressions)
+	- [Common regular expression patterns](./docs/regular-expressions.md#-common-regular-expression-patterns)
+	- [Matching patterns in strings](./docs/regular-expressions.md#-matching-patterns-in-strings)
 3. JSON (JavaScript Object Notation):
 	- Parsing and manipulating JSON data
 4. JavaScript Engine:
