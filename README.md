@@ -82,20 +82,10 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 2. [Arrays:](./docs/arrays.md)
 	- [Array methods](./docs/arrays.md#-array-methods)
 	- [Array iteration](./docs/arrays.md#-array-iteration)
-3. Asynchronous JavaScript:
-	- Callbacks
-		- Understanding asynchronous operations
-		- Using callbacks to handle asynchronous results
-	- Promises
-		- Creating and chaining promises.
-		- Handling promise resolution and rejection
-	- Async/await
-		- Using `async` and `await` for cleaner asynchronous code.
-4. Modules:
-	- CommonJS modules
-	- ES modules
-		- Importing modules
-		- Exporting modules
+3. [Asynchronous JavaScript:](./docs/asynchronous-javascript.md)
+	- [Callbacks](./docs/asynchronous-javascript.md#-callbacks)
+	- [Promises](./docs/asynchronous-javascript.md#-promises)
+	- [Async/Await](./docs/asynchronous-javascript.md#-async-await)
 
 ### Advanced Topics
 1. Error Handling:
