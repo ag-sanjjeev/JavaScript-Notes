@@ -96,26 +96,22 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 	- [Creating regular expressions](./docs/regular-expressions.md#-creating-regular-expressions)
 	- [Common regular expression patterns](./docs/regular-expressions.md#-common-regular-expression-patterns)
 	- [Matching patterns in strings](./docs/regular-expressions.md#-matching-patterns-in-strings)
-3. JSON (JavaScript Object Notation):
-	- Parsing and manipulating JSON data
-4. JavaScript Engine:
-	- How JavaScript code is executed
-	- The call stack and event loop
-5. Performance Optimization:
-	- Minimizing DOM manipulations
-	- Using requestAnimationFrame
-	- Avoiding unnecessary calculations
-	- Techniques for improving JavaScript performance
-	- Code minification
-	- Tree shaking
-	- Lazy loading
-6. Web APIs:
+3. [JSON (JavaScript Object Notation):](./docs/json.md)
+	- [Parsing and Manipulating](./docs/json.md#-parsing-and-manipulating)
+
+4. Web APIs:
 	- Fetch API
 	- WebSockets
-	- Local Storage and Session Storage
+	- Local Storage
+  - Session Storage
 	- Geolocation API
 	- Canvas API
 	- Web Audio API
+  - Clip board API
+  - Web camera API
+  - Microphone API
+  - Handling Cookies
+  - Other APIs
 
 By following this roadmap and consistently practicing, you can develop a strong foundation in Vanilla JavaScript and build impressive web applications.
 
