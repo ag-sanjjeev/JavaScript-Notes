@@ -99,19 +99,19 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 3. [JSON (JavaScript Object Notation):](./docs/json.md)
 	- [Parsing and Manipulating](./docs/json.md#-parsing-and-manipulating)
 
-4. Web APIs:
-	- Fetch API
-	- WebSockets
-	- Local Storage
-  - Session Storage
-	- Geolocation API
-	- Canvas API
-	- Web Audio API
-  - Clip board API
-  - Web camera API
-  - Microphone API
-  - Handling Cookies
-  - Other APIs
+4. [Web APIs:](./docs/web-apis.md)
+	- [Fetch API](./docs/web-apis.md#-fetch-api)
+	- [WebSockets](./docs/web-apis.md#-websockets)
+	- [Local Storage](./docs/web-apis.md#-local-storage)
+	- [Session Storage](./docs/web-apis.md#-session-storage)
+	- [Geolocation API](./docs/web-apis.md#-geolocation-api)
+	- [Canvas API](./docs/web-apis.md#-canvas-api)
+	- [Web Audio API](./docs/web-apis.md#-web-audio-api)
+	- [Clipboard API](./docs/web-apis.md#-clipboard-api)
+	- [Web camera API](./docs/web-apis.md#-web-camera-api)
+	- [Microphone API](./docs/web-apis.md#-microphone-api)
+	- [Handling Cookies](./docs/web-apis.md#-handling-cookies)
+	- [Other APIs](./docs/web-apis.md#-other-apis)
 
 By following this roadmap and consistently practicing, you can develop a strong foundation in Vanilla JavaScript and build impressive web applications.
 
