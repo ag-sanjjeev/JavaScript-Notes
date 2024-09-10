@@ -88,9 +88,10 @@ This repository contains Vanilla JavaScript topics and their notes to learn from
 	- [Async/Await](./docs/asynchronous-javascript.md#-async-await)
 
 ### Advanced Topics
-1. Error Handling:
-	- Using `try...catch` blocks to handle errors
-	- Custom error objects
+1. [Error Handling:](./docs/error-handling.md)
+	- [try and catch](./docs/error-handling.md#-try-and-catch)
+	- [Custom error objects](./docs/error-handling.md#-custom-error-objects)
+	- [Necessity of Error Handling](./docs/error-handling.md#-necessity-of-error-handling)
 2. Regular Expressions:
 	- Creating regular expressions
 	- Common regular expression patterns
