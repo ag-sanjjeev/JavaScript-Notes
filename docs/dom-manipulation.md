@@ -157,6 +157,6 @@ document.addEventListener("myCustomEvent", function() {
 ---
 [&#8682; To Top](#-dom-manipulation)
 
-[&#10094; Previous Topic](./functions.md) &emsp; [Next Topic &#10095;](./objects.md)
+[&#10094; Previous Topic](./date-and-time.md) &emsp; [Next Topic &#10095;](./objects.md)
 
 [&#8962; Goto Home Page](../README.md)

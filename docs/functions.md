@@ -86,6 +86,6 @@ let greet = (name) => {
 ---
 [&#8682; To Top](#-functions)
 
-[&#10094; Previous Topic](./control-flow.md) &emsp; [Next Topic &#10095;](./dom-manipulation.md)
+[&#10094; Previous Topic](./control-flow.md) &emsp; [Next Topic &#10095;](./date-and-time.md)
 
 [&#8962; Goto Home Page](../README.md)
